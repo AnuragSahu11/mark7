@@ -1,0 +1,33 @@
+body {
+  font-family: "Pirata One", cursive;
+  background: #11998e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #38ef7d,
+    #11998e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #38ef7d,
+    #11998e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h1 {
+  font-size: 4rem;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.button {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 1rem;
+  border-radius: 5px;
+}
