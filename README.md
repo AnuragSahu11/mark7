@@ -6,6 +6,6 @@ It uses API to perform this translation.
 Fetch is used to perform API call to the "https://api.funtranslations.com/translate/pirate.json"
 
 Tech Stack used - 
-HTML 
-CSS
-Javascript
+1 HTML 
+2 CSS
+3 Javascript
